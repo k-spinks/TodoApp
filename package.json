@@ -1,0 +1,11 @@
+{
+  "name": "todoapp",
+  "version": "0.0.1",
+  "description": "A basic todo app that allows users to create and delete tasks",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Spinks",
+  "license": "MIT"
+}
